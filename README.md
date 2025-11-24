@@ -10,7 +10,7 @@ This project implements a backend service for managing **task lists** with suppo
     
 - CRUD operations
     
-- querying with sorting, pagination, and access rules
+- querying with sorting, and pagination
     
 
 The solution uses **ASP.NET Core 8**, **MongoDB**, **Clean Architecture principles**, **logging**, and includes **unit tests**.
