@@ -1,6 +1,6 @@
-## 📌 TaskLists API
+## TaskLists API
 
-## Overview
+## 📌 Overview
 
 This project implements a backend service for managing **task lists** with support for:
 
